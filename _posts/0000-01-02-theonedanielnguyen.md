@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Ceci n'est pas un slideshow
 Use the left arrow to go back!
